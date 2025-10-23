@@ -31,8 +31,7 @@ This project is a **fake login page** designed for **educational purposes only**
 
 ## File Structure
 ```
-Fake_Login_Page_(Phishing Simulation for Education Only)/
-    Facebook-login PAGE/
+    Fake_FACEBOOK_Login_Page--Phishing_Simulation_for_Education_Only/
         index.html       # Main HTML file for the fake login page
         script.js        # JavaScript for handling form submission and data capture
         css/
@@ -82,3 +81,4 @@ This project is for **educational purposes only**. It must not be used for malic
 ## Author
 - **Sagar**
 - Email: eng.sagar.aiub@gmail.com
+
